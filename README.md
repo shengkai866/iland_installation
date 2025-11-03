@@ -54,7 +54,7 @@ Run the above code to check if the qt installation is successful.
 Run the following code.
 
 ```{cmd}
-git clone https://github.com/shengkai866/_installation.git
+git clone https://github.com/shengkai866/iland_installation.git
 cd iland_installation
 chmod +x iland_build.sh
 chmod +x iland_source_code.sh
